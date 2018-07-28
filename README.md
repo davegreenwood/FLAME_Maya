@@ -1,4 +1,4 @@
-# Maya Fame Plug-in
+# Maya FLAME Plug-in
 
 Implements a deformer plug-in for the FLAME model.
 
