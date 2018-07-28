@@ -1,0 +1,7 @@
+name: maya2016
+dependencies:
+- python=2.7.6
+- pip=9
+- pip:
+    - numpy
+    - chumpy
