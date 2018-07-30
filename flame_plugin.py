@@ -17,7 +17,7 @@ N_POSE_CMP = 15
 N_ID_CMP = 6
 N_EXP_CMP = 6
 # Scale each type of component to keep the sliders [-1, 1]
-POSE_SCALE = 0.5
+POSE_SCALE = 1.0
 ID_SCALE = 3.0
 EXP_SCALE = 3.0
 # Maya prefers to fit on the grid nicely
