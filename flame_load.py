@@ -3,11 +3,7 @@
 # -----------------------------------------------------------------------------
 
 
-# the sys append could be performed at maya start
-import sys
-sys.path.append(
-    '/Users/Shared/anaconda2/envs/maya2016/lib/python2.7/site-packages')
-
+# a userSetup.py is provided to make these modules available to mayapy
 import numpy as np
 import cPickle as pickle
 import chumpy as ch
