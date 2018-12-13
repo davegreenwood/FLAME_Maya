@@ -14,8 +14,8 @@ print 'model loaded from', model_path
 
 # How many components will the plugin manipulate
 N_POSE_CMP = 15
-N_ID_CMP = 6
-N_EXP_CMP = 6
+N_ID_CMP = 15
+N_EXP_CMP = 15
 # Scale each type of component to keep the sliders [-1, 1]
 POSE_SCALE = 1.0
 ID_SCALE = 3.0
