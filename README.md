@@ -16,7 +16,7 @@ FLAME repository:
 
 * Edit the model path in `flame_plugin.py` - future versions will load the model from the Maya interface.
 
-* Place the `flame_plugin.py` in the `MAYA_PLUGIN_PATH`.
+* Place the `flame_plugin.py` in the `MAYA_PLUG_IN_PATH`.
 
 * Place `flame_load.py` in Maya's `PYTHONPATH`. This can be set in a number of ways - the Maya documentation gives detailed examples. The provided `userSetup.py` can be used to achieve this.
 
