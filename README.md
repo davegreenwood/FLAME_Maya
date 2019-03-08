@@ -27,7 +27,8 @@ Windows > Settings/Preferences > Plugin Manager, then selecting flame_plugin.py
 in the dialogue. The plugin prints to console the path from which the model was loaded.
 
 The plugin is implemented as a deformer, so requires a base mesh.
-One can be extracted using the `helloworld.py` example from the FLAME repo. Or, there is a starter Maya scene file provided - `head.ma` that has an imported mesh in the scene.
+One can be extracted using the `helloworld.py` example from the FLAME repo. Or,
+there is a wavefront obj file provided - `head.obj` that can be imported to the scene.
 
 In Maya, with the imported mesh selected, issue in the command line:
 
