@@ -5,6 +5,3 @@ dependencies:
 - pip:
     - numpy
     - chumpy
-    - ptvsd
-    - pylint
-    - autopep8
