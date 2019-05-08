@@ -14,11 +14,11 @@ FLAME repository:
 
 * A file, `userSetup.py`, is provided that shows an example of how to load modules from a virtual environment, this should be edited to include the path to your own virtual environment. This file should be placed in the `MAYA_SCRIPT_PATH`.
 
-* Edit the model path in `flame_plugin.py` - future versions will load the model from the Maya interface.
+* Edit the model path in `flame_plugin.py` - future versions will load the model from the Maya interface. This is the model from the FLAME project - here we use the generic model. The model files can be obtained from the project website <http://flame.is.tue.mpg.de> .
 
 * Place the `flame_plugin.py` in the `MAYA_PLUG_IN_PATH`.
 
-* Place `flame_load.py` in Maya's `PYTHONPATH`. This can be set in a number of ways - the Maya documentation gives detailed examples. The provided `userSetup.py` can be used to achieve this.
+* Place `flame_load.py` in Maya's `PYTHONPATH`. This can be set in a number of ways - the Maya documentation gives detailed examples. The provided `userSetup.py` can be used to achieve this. 
 
 ### Usage
 
